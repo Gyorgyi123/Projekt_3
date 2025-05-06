@@ -61,7 +61,7 @@ It's highly recommended to use a virtual environment to manage project-specific 
 
 The script is executed from the command line and requires two arguments:
 
-1.  **URL:** The URL of the election results page for the territorial unit you want to scrape. This should be a link from `https://www.volby.cz/pls/ps2017nss/` that lists municipalities.
+1.  **URL:** The URL of the election results page for the territorial unit you want to scrape. This should be a link from `https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ` that lists municipalities.
 2.  **Output File Name:** The name for the CSV file where the results will be saved (e.g., `vysledky_okresu_brno.csv`).
 
 **Command Syntax:**
